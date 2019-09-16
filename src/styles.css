@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input {
+  border: 1px solid #bbb;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-left: 10px;
+  min-width: 150px;
+}
